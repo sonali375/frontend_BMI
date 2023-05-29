@@ -58,6 +58,11 @@ h1 {
   box-shadow: 0 2px 4px rgba(247, 4, 4, 0.473);
   font-weight: bold;
   border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn-calculate:hover {
+  box-shadow: 0 2px 4px rgba(247, 4, 4, 0.473);
 }
 
 #result {
